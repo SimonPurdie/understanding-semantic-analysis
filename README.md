@@ -7,7 +7,7 @@ This educational Jupyter Notebook explores the fundamentals of **Semantic Analys
 ## 🚀 Quick Start (Recommended)
 The easiest way to run this notebook is via Google Colab. This avoids the need to install Python or libraries locally.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SimonPurdie/understanding-semantic-analysis/blob/master/understanding-semantic-snalysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SimonPurdie/understanding-semantic-analysis/blob/master/understanding-semantic-analysis.ipynb)
 
 1. Click the **Open in Colab** button.
 2. Go to **Runtime** > **Run all**.
