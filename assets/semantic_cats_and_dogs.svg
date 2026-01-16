@@ -24,11 +24,11 @@
      inkscape:deskcolor="#282a2c"
      inkscape:document-units="mm"
      inkscape:zoom="0.81869388"
-     inkscape:cx="417.12783"
-     inkscape:cy="280.32456"
+     inkscape:cx="418.34929"
+     inkscape:cy="281.54602"
      inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     inkscape:window-x="1912"
+     inkscape:window-height="1139"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" /><defs
@@ -397,7 +397,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#f9f9f9;stroke:none;stroke-width:1.05833"
            x="20.360174"
            y="25.712255"
-           id="tspan65">(euclidean or dot product)</tspan><tspan
+           id="tspan65">(euclidean similarity)</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#f9f9f9;stroke:none;stroke-width:1.05833"
            x="20.360174"
@@ -428,4 +428,4 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#f9f9f9;stroke:none;stroke-width:1.05833"
            x="20.360174"
            y="65.399757"
-           id="tspan70">(cosine).</tspan></text></g></g></svg>
+           id="tspan70">from the origin (cosine similarity).</tspan></text></g></g></svg>
