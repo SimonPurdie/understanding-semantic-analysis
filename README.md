@@ -1,6 +1,8 @@
 # Understanding Semantic Analysis
 
-This educational Jupyter Notebook explores the fundamentals of **Semantic Analysis** and **Sentiment Analysis** using modern machine learning tools.
+This is a learning resource to help people understand **Semantic Analysis**.
+
+It includes a basic demonstration of **Sentiment Analysis** in Python, with discussion of the underlying concepts, to help build intuitions about how these tools are best used.
 
 ---
 
