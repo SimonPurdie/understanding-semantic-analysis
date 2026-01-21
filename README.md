@@ -22,3 +22,7 @@ This notebook provides a hands-on guide to extracting meaning from text. Key con
 * **Cosine Similarity**: Comparing the direction of vectors to determine similarity in meaning.
 * **Sentiment Classification**: Categorizing reviews as Positive or Negative based on "anchor" phrases.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
